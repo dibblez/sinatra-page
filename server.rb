@@ -1,6 +1,10 @@
 require 'sinatra'
 require "sinatra/reloader"
 
+get '/random' do
+  erb :random
+end 
+
 get '/' do
   erb :index
 end

@@ -1,8 +1,7 @@
 h1{
 color:#021400;
 font-size:40px;
-font-family:fantasy;
-margin-bottom:5px;
+font-family:fantasy:5px;
 
 }
 body{

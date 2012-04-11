@@ -1,24 +1,29 @@
-<html>
-<head>
-<title>Dogs</title>
-<link rel="stylesheet" type="text/css" href="theme.css"/>
-</head>
-<h1>Dogs, man's best friend?</h1>
-<p>This site is for dog lovers, but everyone is welcome</p>
-<ul> 
-<ol>
-  <li>hayley</li>
-  <li>dannah</li>
 
-  <li>forward</li>
+<title>Music Match</title>
+
+<div class='title-mid'>
+<h1>MUSIC MATCH </h1>
+<h2>Promote Yourself</h2>
+</div>
+
+<p>Are you an unsigned artist?
+<br>
+    Do you want the world to hear your talent?
+<br>
+    If you RAP/SING or play an INSTRUMENT, then this is where your future as an artist could begin!    
+</p>
+<p> If your wondering why should i use this app over other music apps (as theres alot out there!) then this is why... whats different about this music app is that you can battle against other music lovers. We've created this app so that you can promote yourself and let others see your music VS another person! You will recieve votes
+
+</p>
+
+<p> 3 Simple steps to becoming a <strong>STAR!</strong></p>
+<ol>
+  <li>Pick a genre</li>
+  <li>Upload your track</li>
+  <li>Get matched and wait for the votes to roll in</li>
   </ol>
- <hr>
-   <h2>im learning new things<h2/>
-     <del>delet me</del>
-     <p>i woke up early today<P>
-       <em>hello</em>
-       <p>i like to drink h<sub>2</sub>0</p>
-         <p>my name <em>dannah willis</em><p>
-<a href="http://facebook.com/">facebook</a>  |  <a href="http://google.com/">google</a>
+       
+         
+
 <img src="http://www.cktechnical.co.uk/images/laptop.png" width="200" height="200" alt="laptop"/>
-<a href="about">about</a>
+

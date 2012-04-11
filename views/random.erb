@@ -1,0 +1,13 @@
+<% 
+a = ["hello","there","matey"] 
+
+def choose_random(an_array)
+  position = (rand() * an_array.size).to_i
+  an_array[position]
+end
+%>
+
+This is the element <%= choose_random(a) %>
+
+<P>
+Here is another 
