@@ -1,0 +1,24 @@
+<link rel="stylesheet" type="text/css" href="theme.css"/>
+
+<a href="/">homepage</a>  |  
+<a href="/page3">page3</a>
+
+<h1><strong>This site is about video games</strong></h1>
+<p><em>The top 5 games out now are:</em></P>
+<ul>
+<li><strong/>call of duty </br><img src="http://upload.wikimedia.org/wikipedia/en/0/02/CoD_Black_Ops_cover.png" width="100" height="100" alt="black opz"/></li>
+<p>
+
+<li>infamous</li></br><img src="http://images.pricerunner.com/product/560x643/223901521/Infamous.jpg" width="100" height="100" alt="infamous"/></li>
+
+<li>assasins creed</li></br><img src="http://www.cbswords.com/images/acreed.jpg" width="100" height="100" alt="assasin creed"/></li>
+
+<li>fifa</li></br><img src="http://upload.wikimedia.org/wikipedia/en/thumb/8/8f/FIFA_12_cover.jpg/250px-FIFA_12_cover.jpg" width="100" height="100" alt="fifa"/></li>
+
+<li>pro soccer</li></br><img src="http://www.free-download-sites.com/wp-content/uploads/2012/03/Pro-Evolution-Soccer-12-demo.jpg" width="100" height="100" alt="pro soccer"/></li>
+</ul>
+
+
+
+
+
