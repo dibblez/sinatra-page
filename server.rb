@@ -2,6 +2,14 @@ require 'sinatra'
 require "sinatra/reloader"
 
 get '/random' do
+  @a = ["hello","there","matey"]  
+  @b = ["http://userserve-ak.last.fm/serve/500/59446161/Jessie+J.png","http://myplay.com/files/imagecache/photo_345_square/files/artist_images/adele-myplay.jpg","http://videokeman.com/image/pics/LilWaynesongPics1eJWhLMZX8tzsMM.jpg","http://madamenoire.com/wp-content/uploads/2011/12/Beyonce3.jpg","http://www.picgifs.com/celebrities/r/rihanna/celebrities-rihanna-106546.jpg" ]
+  @c = ["http://sheblogsaboutmusic.files.wordpress.com/2012/01/jamie-t-235562.jpg","http://www.mixmag.net/sites/default/files/imagecache/article/images/DELILAH_0.jpg","http://www.billboard.com/photos/artist/855020-drake.jpg","http://timmygotsoul.com/wp-content/uploads/2011/05/tyga-1.jpg","http://static-l3.blogcritics.org/11/12/26/173369/lana-del-rey.jpg?t=20111226201304"]
+
+  def choose_random(an_array) 
+    position = (rand() * an_array.size).to_i
+    an_array[position]
+  end
   erb :random
 end 
 

@@ -1,11 +1,31 @@
-<% 
-a = ["hello","there","matey"] 
 
-def choose_random(an_array)
-  position = (rand() * an_array.size).to_i
-  an_array[position]
-end
-%>
 
-This is the element <%= choose_random(a) %>
+
+<h1> Music Match </h1>
+<h2>Promote Yourself</h2>
+
+<body>
+
+</div>
+<div id="content">
+ <div id="feature">
+  <p>Feature</p>
+</div>
+<div class="atricle column1">
+  <p><img src="<%= choose_random(@b )%>" /> </p>
+   
+</div>
+<div class="atricle column2">
+  <p>VS</p>
+</div>
+<div class="atricle column3">
+  <p><img src="<%= choose_random(@c) %>" /></p>
+</div>
+</div>
+
+<div id="footer">
+<p>&copy; Copyright 2012</p>
+</div>
+</body>
+
 
